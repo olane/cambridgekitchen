@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cambridge Kitchen</title>
-    <link>http://example.org/posts/</link>
+    <link>https://olane.github.io/cambridgekitchen/posts/</link>
     <description>Recent content in Posts on Cambridge Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Apr 2018 15:58:30 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://olane.github.io/cambridgekitchen/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Low-FODMAP vegan gluten-free brownies</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://olane.github.io/cambridgekitchen/posts/my-first-post/</link>
       <pubDate>Sun, 29 Apr 2018 15:58:30 +0100</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://olane.github.io/cambridgekitchen/posts/my-first-post/</guid>
       <description>An introduction
 Ingredients  chocolate gluten free flour (Dove farm is goooood) etc.  Method Mix stuff blah blah
 Cook it For 20 mins</description>
