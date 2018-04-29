@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Cambridge Kitchen"
+canonifyurls = true
+paginate = 10
+
+themesDir = "../.."
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+
+theme="ananke"
+
+[author]
+  name = "Cambridge Kitchen"
+
+[params]
+  featured_image = '/images/plant-pots.jpg'
+  description = "Cambridge-based office worker, dreaming of food in every spare moment. Omnivore but currently low FODMAP; dabbler in gluten-free and vegan."
+  instagram = "https://www.instagram.com/cambridgekitchen"
+  recent_posts_number = 5
