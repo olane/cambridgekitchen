@@ -3,29 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://olane.github.io/cambridgekitchen/posts/my-first-post/</loc>
-    <lastmod>2018-04-29T15:58:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olane.github.io/cambridgekitchen/</loc>
-    <lastmod>2018-04-29T15:58:30+01:00</lastmod>
+    <loc>http://cambridgekitchen.co.uk/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://olane.github.io/cambridgekitchen/categories/</loc>
+    <loc>http://cambridgekitchen.co.uk/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://olane.github.io/cambridgekitchen/posts/</loc>
-    <lastmod>2018-04-29T15:58:30+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://olane.github.io/cambridgekitchen/tags/</loc>
+    <loc>http://cambridgekitchen.co.uk/tags/</loc>
     <priority>0</priority>
   </url>
   
