@@ -6,9 +6,21 @@
     <description>Recent content on Cambridge Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 29 Apr 2018 15:58:30 +0100</lastBuildDate>
     
 	<atom:link href="http://cambridgekitchen.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Low-FODMAP vegan gluten-free brownies</title>
+      <link>http://cambridgekitchen.co.uk/posts/my-first-post/</link>
+      <pubDate>Sun, 29 Apr 2018 15:58:30 +0100</pubDate>
+      
+      <guid>http://cambridgekitchen.co.uk/posts/my-first-post/</guid>
+      <description>An introduction
+Ingredients  chocolate gluten free flour (Dove farm is goooood) etc.  Method Mix stuff blah blah
+Cook it For 20 mins</description>
+    </item>
     
   </channel>
 </rss>

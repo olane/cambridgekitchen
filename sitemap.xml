@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://cambridgekitchen.co.uk/posts/my-first-post/</loc>
+    <lastmod>2018-04-29T15:58:30+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://cambridgekitchen.co.uk/</loc>
+    <lastmod>2018-04-29T15:58:30+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cambridgekitchen.co.uk/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cambridgekitchen.co.uk/posts/</loc>
+    <lastmod>2018-04-29T15:58:30+01:00</lastmod>
     <priority>0</priority>
   </url>
   
